@@ -13,7 +13,7 @@ from main import app as workflow
 st.set_page_config(
     page_title="Smart Food Rescue System",
     page_icon="🍱",
-    layout="wide"p
+    layout="wide",
 )
 
 st.title("🍱 Smart Food Rescue & Redistribution")
